@@ -1,0 +1,46 @@
+main {
+    background-color: rgba(93, 190, 255, 0.945);
+    text-align: center;
+    padding: 1%;
+    border-radius: 1%;
+    width: 70%;
+    justify-self: center;
+}
+
+body {
+    background-color: #85f2f8e1;
+}
+
+header h1 {
+    color: rgba(4, 24, 26, 0.562);
+    text-align: center;
+background-color: #0cc6ffc4;
+padding: 4%;
+}
+
+nav {
+    justify-self: center;
+    background-color: #0cc6ffc4;
+    padding: 1%;
+    width: 100%;
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+    background-color: ;
+    padding: 1%;
+    width: 100%;
+    justify-self: center;
+}
+.main1{
+    margin-top: 20%;
+ background-color: rgba(93, 190, 255, 0.945);
+    text-align: center;
+    padding: 1%;
+    border-radius: 1%;
+    width: 40%;
+    justify-self: center;
+    padding: 8%;
+}
