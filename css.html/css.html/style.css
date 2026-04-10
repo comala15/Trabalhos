@@ -1,0 +1,116 @@
+nav {
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    color: white;
+    justify-self: left;
+    object-fit: cover;
+}
+.marcop {
+    display: flex;
+}
+
+.marcoputo {
+    display: flex;
+    justify-self: center;
+
+}
+
+.marcomuitoputo {
+    justify-self: center;
+}
+
+.card {
+    background-color: rgb(65, 4, 4);
+    width: 10%;
+    padding: 15px;
+    border-radius: 5%;
+    box-shadow: rgba(189, 11, 11, 0.651) 0px 4px 12px;
+
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10%;
+}
+
+.card h5 {
+    background-color: rgba(235, 230, 233, 0.911);
+    width: 60px;
+    justify-self: center;
+    text-align: center;
+    border: 2%;
+    border-radius: 10%;
+    
+}
+
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-align: center;
+    justify-self: center;
+    justify-content: center ;
+
+}
+
+body {
+    background-color: rgba(161, 16, 16, 0.767);
+}
+
+main h2 {
+    color: rgb(255, 255, 255);
+}
+
+main p {   transform: translateY(100%);
+    color: rgb(255, 255, 255);
+}
+.main2 img{
+    width: 100%;
+    border-radius:100%;
+    border: dashed;
+}
+.card2{
+     background-color: rgb(65, 4, 4);
+    width: 10%;
+    padding: 15px;
+    border-radius: 5%;
+    box-shadow: rgba(189, 11, 11, 0.651) 0px 4px 12px;
+    
+}
+.main2{
+     display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.main2 p{
+    text-align: center
+}
+.card2 h4{
+    color: black;
+    background-color:white ;
+    text-align: center;
+    justify-self: center;
+    border-radius: 5%;
+    border: 5%;
+    width:50% ;
+}
+nav a{
+    padding: 20px;
+    color: white;
+}
+.card3{
+       background-color: rgb(65, 4, 4);
+    width: 10%;
+    padding: 15px;
+    border-radius: 5%;
+    box-shadow: rgba(189, 11, 11, 0.651) 0px 4px 12px;
+    justify-self: center;
+    
+}
+    
