@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(226, 226, 226);
+    padding: 0px;
+    margin: 0px;
+}
+
+.tl {
+    color: white;
+    background-color: #030f31;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+.a {
+    background-color: #283654;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+nav a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: dimgray;
+    padding: 15px;
+}
+
+.card {
+    margin-top: 25px;
+    background-color: #FFF;
+    border-radius: 15px;
+    box-shadow: black 0px 0px 15px;
+    justify-self: center;
+    display: flex;
+    padding: 70px;
+    width: 70%;
+    flex-direction: column;
+    display: flex;
+}
+
+.cardarea{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card1 {
+    background-color: rgb(165, 220, 252);
+    border-radius: 8px;
+    width: 800px;
+    display: flex;
+    align-self: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.p {
+    text-align: center;
+}
+.card2{
+    
+    width: 325px;
+    height: 220px;
+   background-color: rgb(225, 245, 248);
+    justify-content: center;
+    box-shadow: 1px 1px 15px black;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.card2 h4{
+    margin-top: 0;;
+    background-color: rgb(24, 119, 243);
+    width: 100%;
+    color: white;
+    margin-top: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 4x;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+}
+.cardb{ margin-top: 25px;
+    background-color: #FFF;
+    border-radius: 15px;
+    box-shadow: black 0px 0px 15px;
+    justify-self: center;
+    display: flex;
+    padding: 70px;
+    width: 70%;
+    flex-direction: column;
+    display: flex;
+
+}
+footer{
+    background-color: #030f31;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
